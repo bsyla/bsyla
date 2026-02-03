@@ -1,38 +1,45 @@
-Hi 👋 My name is Bjorn
-=====================
+# Bjorn Syla - SDET / QA Automation Engineer
 
-QA Automation Engineer
----------------------
+I build reliable test automation systems that help engineering teams ship
+with confidence. I focus on clean architecture, deterministic automation,
+and CI-first quality gates.
 
-QA Engineer with experience in tech since 2018 and a strong focus on test automation since 2020.  
-I specialize in **E2E automation using Playwright and Cypress**, building reliable, maintainable test frameworks that integrate well with CI/CD pipelines.
+What I bring
+- Automation architecture with Playwright/Cypress (POM, fixtures, utils)
+- API testing (REST, schema validation, contract checks, data seeding)
+- CI/CD integration in GitHub Actions with actionable reporting
+- Quality ownership (risk-based strategy, release confidence)
+- Cloud basics for test environments (AWS and GCP)
 
-I enjoy working close to engineering teams, improving test strategy, and increasing confidence in releases through solid automation.
+Core skills
+- Languages: TypeScript, JavaScript
+- UI automation: Playwright, Cypress
+- API testing: REST, contract testing, schema validation
+- CI/CD: GitHub Actions, Docker, test reporting
+- Practices: Arrange/Act/Assert, deterministic selectors (data-testid),
+  no arbitrary waits, parallel-safe tests, environment-agnostic config
 
-* 🌍  Based in Munich, Germany
-* ✉️  Contact: [bjorn.syla@gmail.com](mailto:bjorn.syla@gmail.com)
-* 🧠  Currently deepening expertise in **Playwright**, **Docker**, and test infrastructure
-* 🤝  Open to collaboration on automation-heavy projects (LMS, SaaS platforms, test frameworks)
+Portfolio
+- E2E Automation Framework (Playwright + TS) - in progress
+- API Testing Toolkit (REST + schema + contract) - planned
+- CI/CD Quality Gates (GitHub Actions) - planned
+- Test Architecture Demo (data seeding, fixtures, env config) - planned
+- Performance/Security Smoke (k6 or OWASP ZAP) - planned
 
----
+Docs
+- Portfolio structure: docs/portfolio-structure.md
+- Project ideas: docs/project-ideas.md
+- README template: docs/readme-template.md
+- GitHub checklist: docs/github-checklist.md
+- 3-month roadmap: docs/roadmap-3-months.md
+- Templates: templates/
 
-### 🧰 Skills
+Philosophy
+- Reliability over speed
+- Deterministic selectors and explicit waits (expect.poll)
+- No business logic in tests; keep it in fixtures and utils
+- Tests map to risks and product behavior, not implementation details
+- Parallel-safe and environment-agnostic by default
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-</a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-</a>
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" />
-</a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icon
+Location: Munich, Germany (open to EU/remote)
+Contact: bjorn.syla@gmail.com
